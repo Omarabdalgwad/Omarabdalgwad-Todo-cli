@@ -25,7 +25,7 @@ pip install omar1324-todo-cli
 
 ```
 
-3- after install it should be like this 
+3- After installation, you should see something like this:
 ```bash
 Successfully installed omar1324-todo-cli-1.1.2
 
@@ -34,7 +34,7 @@ Successfully installed omar1324-todo-cli-1.1.2
 
 ## commands :
 
-1- (show) : display your todo-list table
+1- (show) : Display your todo-list in a table:
 ```bash
 todo show
 ```
@@ -45,11 +45,11 @@ todo add "name of your task" "category"
 ```
 
 for category ther is 4 coloured category :
-- sports -> will display with green coulour
-- youtube -> will be displayed with red colour
-- learn -> will be displayed with blue colour
-- study -> will be displayed with purple colour
-- anything else will displayed with white colour
+- sports ->  green 
+- youtube -> red 
+- learn -> blue 
+- study -> purple 
+- anything else -> white
 
 Example 1
 
@@ -101,7 +101,7 @@ todo add "task5" "else"
 ---
 
 3- (complete)
-to insure that you have done this task
+Mark a task as completed:
 
 EXAMPLE 1
 ```bash
@@ -152,8 +152,8 @@ todo complete 5
 
 ---
 
-4-(delete)
-
+4-(delete) 
+Delete a task by its number:
 ```bash
 todo delete 1
 
