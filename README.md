@@ -1,4 +1,4 @@
-# Omar1324 Todo CLI
+# Todo CLI
 
 A lightweight command-line Todo manager built with **Typer** and **Rich**.
 
